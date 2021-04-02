@@ -1,0 +1,46 @@
+{
+    "taschen": {
+        "0": {
+            "name": "Kleiner Doraemon x Gucci Rucksack",
+            "description": "Dieser kleine Rucksack aus Mini GG Supreme ist Teil einer besonderen Zusammenarbeit zwischen Doraemon und Gucci. Doraemon ist eine Roboterkatze, die Mäuse hasst und Pfannkuchen liebt. Geboren im Jahr 2112 wurde sie zurückgeschickt, um dem kleinen Nobita mit geheimnisvollen Gegenständen aus einer vierdimensionalen Tasche aus der Patsche zu helfen.",
+            "price": "1.550€",
+            "image": "https://media.gucci.com/style/White_Center_0_0_250x170/1603964705/647816_2VOAG_8595_001_092_0000_Light-Kleiner-Doraemon-x-Gucci-Rucksack.jpg"
+        },
+        "1": {
+            "name": "Kleine Dionysus Schultertasche",
+            "description": " Modell ‎499623 0JNAN 1101 Im Rahmen der Epilogue Kollektion dreht sich alles darum, mit altgewohnten Moderegeln zu brechen und zeitlose Designs zu erschaffen, die länger als nur eine Saison getragen werden können. Unter den Looks sind die unverkennbarsten Designs und Motive von Alessandro Michele aus den vergangenen fünf Jahren vereint, wie auch die Dionysus. Diese kleine Schultertasche aus schwarzem, strukturiertem Leder gehört zu einer der Beloved Linien des Hauses.",
+            "price": "1.980€",
+            "image": "https://media.gucci.com/style/White_Center_0_0_250x170/1603214105/499623_0JNAN_1101_001_074_0000_Light-Kleine-Dionysus-Schultertasche.jpg"
+        },
+        "2": {
+            "name": "Gucci Horsebit 1955 Schultertasche",
+            "description": "Die neu aufgelegte Gucci Horsebit 1955 Schultertasche ist von einem Detail aus den Archiven inspiriert. Sie hat dieselben Linien und Formen wie ihr Vorgängermodell vor über sechs Jahrzehnten und vereint die Details des Originals in einer zeitgemäßen Kreation, die den Fokus auf das Horsebit legt.",
+            "price": "1.890€",
+            "image": "https://media.gucci.com/style/White_Center_0_0_250x170/1587720607/602204_92TCG_9761_001_074_0000_Light-Gucci-Horsebit-1955-Schultertasche.jpg"
+        },
+        "3": {
+            "name": "GG Marmont Mini-Henkeltasche aus Pythonleder",
+            "description": "Im Rahmen der Epilogue Kollektion dreht sich alles darum, mit altgewohnten Moderegeln zu brechen und zeitlose Designs zu erschaffen, die länger als nur eine Saison getragen werden können. Unter den Looks sind die unverkennbarsten Designs und Motive von Alessandro Michele aus den vergangenen fünf Jahren vereint, wie auch die GG Marmont.",
+            "price": "3.000€",
+            "image": "https://media.gucci.com/style/White_Center_0_0_250x170/1600795806/547260_LU3NT_2535_001_068_0029_Light-GG-Marmont-Mini-Henkeltasche-aus-Pythonleder.jpg"
+        },
+        "4": {
+            "name": "Kleine Jackie 1961 Hobo-Tasche mit Print von Ken Scott",
+            "description": "Ein leuchtender, botanischer Print von Ken Scott rückt diese kleine Schultertasche gekonnt ins rechte Licht. Der amerikanische Designer, der auch als „Gärtner der Modewelt“ bezeichnet wird, lebte in den 60ern und 70ern in Mailand. Seine farbenprächtigen Blumendesigns spiegeln seine facettenreiche Persönlichkeit wider.",
+            "price": "1.980€",
+            "image": "https://media.gucci.com/style/White_Center_0_0_250x170/1602261905/636709_UA90G_9251_001_080_0000_Light-Kleine-Jackie-1961-Hobo-Tasche-mit-Print-von-Ken-Scott.jpg"
+        },
+        "5": {
+            "name": "Clutch aus Pythonleder mit Doppel G",
+            "description": "Diese Clutch aus Pythonleder präsentiert sich mit schmaler Silhouette und praktischem, dezentem Tragegriff auf der Rückseite. Im Rahmen der Epilogue Kollektion dreht sich alles darum, mit altgewohnten Moderegeln zu brechen und zeitlose Designs zu erschaffen, die länger als nur eine Saison getragen werden können.",
+            "price": "2.000€",
+            "image": "https://media.gucci.com/style/White_Center_0_0_250x170/1601397009/648935_EZ60T_9528_001_062_0000_Light-Clutch-aus-Pythonleder-mit-DoppelG.jpg"
+        },
+        "6": {
+            "name": "Mittelgroßer Ophidia GG Shopper",
+            "description": "Dieser Shopper präsentiert sich in einem Kultgewebe, das durch das Monogramm-Motiv die unverkennbare Handschrift des Hauses trägt. Für die Ouverture Kollektion wurde der Ophidia Shopper in GG Jacquard-Bio-Denim neu aufgelegt. Das Doppel G, ein Symbol aus den Archiven der 70er, verleiht dem Vintage-Modell den letzten Schliff.",
+            "price": "1.100€",
+            "image": "https://media.gucci.com/style/White_Center_0_0_250x170/1612377006/631685_2KQGG_8375_001_100_0000_Light-Mittelgroer-OphidiaGG-Shopper.jpg"
+        }
+    }
+}
