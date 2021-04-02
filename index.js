@@ -3,7 +3,7 @@ const sqlite = require('sqlite');
 const sqlite3 = require('sqlite3');
 const path = require('path');
 
-const botToken = "NTQzMTMyNzc1NDY1NjE1NDAx.XFx10A.VStA30X6jGatYOGXBpbafEUwZQ8";
+const botToken = process.env.DISCORD_BOT_TOKEN;
 
 const client = new Commando.Client({
     owner: '446727597834108938'
